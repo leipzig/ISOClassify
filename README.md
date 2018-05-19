@@ -34,7 +34,7 @@ Multiple junctions are split by ':'.
 
 Output - IsoClass.txt : Two-column output file that contains the classification for each splicing module:
 - ASM: ID of the splicing module.
-- Splicing Type: The type of splicing modules as described in IsoClassSummary.
+- Splicing Type: The type of the splicing modules as described in IsoClassSummary.
 
 Contacts and bug reports
 ------------------------
